@@ -1,0 +1,11 @@
+[
+  {"id":"kitchen","name":"Home-style Kitchen","description":"Everyday rice meals and vegetable dishes.","icon":"🍛"},
+  {"id":"silog","name":"Silog Station","description":"Garlic rice, egg, and your choice of breakfast favorite.","icon":"🍳"},
+  {"id":"noodles","name":"Noodle House","description":"Lomi, pancit, and warm noodle bowls.","icon":"🍜"},
+  {"id":"soups","name":"Soup Corner","description":"Comforting soups and hearty bowls.","icon":"🥣"},
+  {"id":"merienda","name":"Merienda Stall","description":"Filipino snacks for your class break.","icon":"🍘"},
+  {"id":"drinks","name":"Fresh Drinks","description":"Cold drinks and bottled water.","icon":"🥤"},
+  {"id":"grill","name":"Campus Grill","description":"Grilled chicken, pork, and barbecue rice meals.","icon":"🍗"},
+  {"id":"sandwiches","name":"Sandwich Stop","description":"Sandwiches and burgers for a quick bite.","icon":"🥪"},
+  {"id":"bakery","name":"Baked Treats","description":"Bread, cakes, and something sweet.","icon":"🥐"}
+]

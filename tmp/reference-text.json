@@ -1,0 +1,85 @@
+[
+  {
+    "id": 10,
+    "text": "NETWORK PACKET ANALYSISWIRESHARKSee the packets.Understand the network.GROUP 3Research Presentation + LiveDemoInformation Assurance & SecurityGROUP 3 • INFORMATION ASSURANCE & SECURITY01",
+    "fonts": [
+      "F5",
+      "F8"
+    ]
+  },
+  {
+    "id": 11,
+    "text": "INTRODUCTIONWhat is Wireshark?• Free and open-source network protocol analyzer used to capture and inspect network packets.• Used for network troubleshooting, education, application testing, and defensive cybersecurity.• Main interface: Packet List → Packet Details → Packet Bytes.• Helps make network communication visible so users can understand what is happening between devices.GROUP 3 • INFORMATION ASSURANCE & SECURITY02",
+    "fonts": [
+      "F4",
+      "F8"
+    ]
+  },
+  {
+    "id": 12,
+    "text": "CAPABILITIESKey features & security usesLIVE CAPTURECapture authorized network traffic in real time.FILTERINGFocus on specific protocols, addresses, ports, or fields.PROTOCOL ANALYSISInspect Ethernet, IP, TCP/UDP, DNS, ICMP, TLS, andmore.DEFENSIVE ANALYSISInvestigate connection problems and unusual trafficbehavior.GROUP 3 • INFORMATION ASSURANCE & SECURITY03",
+    "fonts": [
+      "F4",
+      "F8"
+    ]
+  },
+  {
+    "id": 13,
+    "text": "NETWORK BASICSProtocols & filtersCOMMON PROTOCOLSEthernet  — local frames / MACIP  — network addressingTCP  — reliable transportUDP  — connectionless transportDNS  — domain-name lookupICMP  — ping / controlTLS  — encrypted sessionsDISPLAY FILTERSdnsDNS trafficicmpPing / ICMPtcpTCP trafficudpUDP trafficCapture filter example:  port 53GROUP 3 • INFORMATION ASSURANCE & SECURITY04",
+    "fonts": [
+      "F4",
+      "F8",
+      "F10"
+    ]
+  },
+  {
+    "id": 14,
+    "text": "LIVE DEMOActual demo — setup1SELECTWi-Fi / Ethernet2CAPTUREStart Wireshark3GENERATEPing + website4STOP20–30 seconds5FILTERdns / icmp / tcpUse only your own computer and an authorized network or laboratory environment.GROUP 3 • INFORMATION ASSURANCE & SECURITY05",
+    "fonts": [
+      "F4",
+      "F8"
+    ]
+  },
+  {
+    "id": 15,
+    "text": "LIVE DEMODemo — DNS & ICMPDNSFilter:dnsShow:• Query name• Source / destination• Response informationICMP / PINGRun:ping example.comThen filter:icmpShow Echo request ↔ Echo reply and explainsource / destination.GROUP 3 • INFORMATION ASSURANCE & SECURITY06",
+    "fonts": [
+      "F4",
+      "F8",
+      "F9"
+    ]
+  },
+  {
+    "id": 16,
+    "text": "LIVE DEMODemo — TCP layers & HTTPSAPPLICATIONTLS / application protocolTCPPorts • flags • sequence / ACKIPSource / destination addressesETHERNETLocal frame / MAC informationHTTPS / TLSWireshark can show connectionmetadata and protocol information.Encrypted application content is notautomatically readable.Select a TCP packet → expand the protocol layers in Packet Details.GROUP 3 • INFORMATION ASSURANCE & SECURITY07",
+    "fonts": [
+      "F4",
+      "F8"
+    ]
+  },
+  {
+    "id": 17,
+    "text": "RESPONSIBLE USEBenefits, limitations & ethicsBENEFITS• Free & open source• Detailed visibility• Strong filters• Good for learningLIMITATIONS• Large captures• Needs networking knowledge• Encryption limits payloads• Capture point mattersETHICAL USE• Authorized traffic only• Protect private data• Avoid credentials• Follow lab/school rulesGROUP 3 • INFORMATION ASSURANCE & SECURITY08",
+    "fonts": [
+      "F4",
+      "F8"
+    ]
+  },
+  {
+    "id": 18,
+    "text": "CONCLUSIONKey takeawayCAPTURE→FILTER→INSPECT→EXPLAINWireshark makes network communication visible at the packet level—helpingus troubleshoot, learn, and investigate responsibly.GROUP 3 • INFORMATION ASSURANCE & SECURITY09",
+    "fonts": [
+      "F4"
+    ]
+  },
+  {
+    "id": 19,
+    "text": "SOURCESReferences & presenter reminderREFERENCES• Wireshark Foundation — wireshark.org/about• Wireshark User’s Guide — wireshark.org/docs/wsug_html/• Wireshark Manual Pages — wireshark.org/docs/man-pages/• Wireshark Wiki — CaptureFilters and DisplayFiltersBEFORE CLASS Test Wireshark Prepare backup capture Avoid sensitive pages Assign presenters Practice the demoGROUP 3 • INFORMATION ASSURANCE & SECURITY10",
+    "fonts": [
+      "F4",
+      "F8",
+      "F10",
+      "F11"
+    ]
+  }
+]

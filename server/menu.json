@@ -1,0 +1,326 @@
+[
+  {
+    "id": "adobo",
+    "storeId": "kitchen",
+    "name": "Chicken Adobo",
+    "price": 85,
+    "category": "Rice Meals",
+    "description": "Chicken simmered in soy sauce and vinegar, served with rice.",
+    "soldOut": false
+  },
+  {
+    "id": "menudo",
+    "storeId": "kitchen",
+    "name": "Pork Menudo",
+    "price": 80,
+    "category": "Rice Meals",
+    "description": "Pork, potatoes and carrots in tomato sauce, served with rice.",
+    "soldOut": false
+  },
+  {
+    "id": "pinakbet",
+    "storeId": "kitchen",
+    "name": "Pinakbet with Rice",
+    "price": 60,
+    "category": "Rice Meals",
+    "description": "Mixed vegetables with shrimp paste, served with rice.",
+    "soldOut": false
+  },
+  {
+    "id": "rice",
+    "storeId": "kitchen",
+    "name": "Extra Rice",
+    "price": 15,
+    "category": "Extras",
+    "description": "One serving of steamed rice.",
+    "soldOut": false
+  },
+  {
+    "id": "tapsilog",
+    "storeId": "silog",
+    "name": "Beef Tapsilog",
+    "price": 95,
+    "category": "Rice Meals",
+    "description": "Beef tapa, garlic rice and a fried egg.",
+    "soldOut": false
+  },
+  {
+    "id": "longsilog",
+    "storeId": "silog",
+    "name": "Longsilog",
+    "price": 75,
+    "category": "Rice Meals",
+    "description": "Longganisa, garlic rice and a fried egg.",
+    "soldOut": false
+  },
+  {
+    "id": "tocilog",
+    "storeId": "silog",
+    "name": "Tocilog",
+    "price": 80,
+    "category": "Rice Meals",
+    "description": "Sweet pork tocino, garlic rice and a fried egg.",
+    "soldOut": false
+  },
+  {
+    "id": "hotsilog",
+    "storeId": "silog",
+    "name": "Hotsilog",
+    "price": 65,
+    "category": "Rice Meals",
+    "description": "Hotdog, garlic rice and a fried egg.",
+    "soldOut": false
+  },
+  {
+    "id": "lomi",
+    "storeId": "noodles",
+    "name": "Lomi",
+    "price": 65,
+    "category": "Noodles",
+    "description": "Thick egg noodles in a savory broth with egg and vegetables.",
+    "soldOut": false
+  },
+  {
+    "id": "bihon",
+    "storeId": "noodles",
+    "name": "Pancit Bihon",
+    "price": 55,
+    "category": "Noodles",
+    "description": "Rice noodles with vegetables and chicken.",
+    "soldOut": false
+  },
+  {
+    "id": "canton",
+    "storeId": "noodles",
+    "name": "Pancit Canton",
+    "price": 60,
+    "category": "Noodles",
+    "description": "Stir-fried egg noodles with vegetables and chicken.",
+    "soldOut": false
+  },
+  {
+    "id": "mami",
+    "storeId": "noodles",
+    "name": "Chicken Mami",
+    "price": 55,
+    "category": "Noodles",
+    "description": "Chicken noodle soup with vegetables.",
+    "soldOut": false
+  },
+  {
+    "id": "tinola",
+    "storeId": "soups",
+    "name": "Chicken Tinola",
+    "price": 75,
+    "category": "Soups",
+    "description": "Chicken soup with green papaya and ginger. Rice sold separately.",
+    "soldOut": false
+  },
+  {
+    "id": "sinigang",
+    "storeId": "soups",
+    "name": "Pork Sinigang",
+    "price": 85,
+    "category": "Soups",
+    "description": "Pork and vegetables in tamarind broth. Rice sold separately.",
+    "soldOut": false
+  },
+  {
+    "id": "arroz-caldo",
+    "storeId": "soups",
+    "name": "Arroz Caldo",
+    "price": 45,
+    "category": "Soups",
+    "description": "Chicken rice porridge with ginger.",
+    "soldOut": false
+  },
+  {
+    "id": "monggo",
+    "storeId": "soups",
+    "name": "Ginisang Monggo",
+    "price": 45,
+    "category": "Soups",
+    "description": "Mung bean stew with leafy vegetables. Rice sold separately.",
+    "soldOut": false
+  },
+  {
+    "id": "puto",
+    "storeId": "merienda",
+    "name": "Puto (3 pieces)",
+    "price": 25,
+    "category": "Snacks",
+    "description": "Three steamed rice cakes for a light snack.",
+    "soldOut": false
+  },
+  {
+    "id": "bibingka",
+    "storeId": "merienda",
+    "name": "Bibingka",
+    "price": 35,
+    "category": "Snacks",
+    "description": "A serving of soft rice cake with coconut.",
+    "soldOut": true
+  },
+  {
+    "id": "suman",
+    "storeId": "merienda",
+    "name": "Suman (2 pieces)",
+    "price": 30,
+    "category": "Snacks",
+    "description": "Two sticky rice rolls wrapped in banana leaves.",
+    "soldOut": false
+  },
+  {
+    "id": "kutsinta",
+    "storeId": "merienda",
+    "name": "Kutsinta (3 pieces)",
+    "price": 25,
+    "category": "Snacks",
+    "description": "Three rice cakes served with grated coconut.",
+    "soldOut": false
+  },
+  {
+    "id": "buko",
+    "storeId": "drinks",
+    "name": "Buko Juice",
+    "price": 25,
+    "category": "Drinks",
+    "description": "A cup of young coconut juice.",
+    "soldOut": false
+  },
+  {
+    "id": "water",
+    "storeId": "drinks",
+    "name": "Bottled Water (500 ml)",
+    "price": 20,
+    "category": "Drinks",
+    "description": "One 500 ml bottle of drinking water.",
+    "soldOut": false
+  },
+  {
+    "id": "iced-tea",
+    "storeId": "drinks",
+    "name": "Iced Tea",
+    "price": 25,
+    "category": "Drinks",
+    "description": "A cup of chilled iced tea.",
+    "soldOut": false
+  },
+  {
+    "id": "calamansi",
+    "storeId": "drinks",
+    "name": "Calamansi Juice",
+    "price": 25,
+    "category": "Drinks",
+    "description": "A cup of chilled calamansi juice.",
+    "soldOut": false
+  },
+  {
+    "id": "inasal",
+    "storeId": "grill",
+    "name": "Chicken Inasal",
+    "price": 100,
+    "category": "Rice Meals",
+    "description": "Grilled chicken served with steamed rice.",
+    "soldOut": false
+  },
+  {
+    "id": "pork-bbq",
+    "storeId": "grill",
+    "name": "Pork Barbecue Meal",
+    "price": 80,
+    "category": "Rice Meals",
+    "description": "Two pork barbecue skewers served with rice.",
+    "soldOut": false
+  },
+  {
+    "id": "liempo",
+    "storeId": "grill",
+    "name": "Grilled Liempo",
+    "price": 110,
+    "category": "Rice Meals",
+    "description": "Grilled pork belly served with rice and dipping sauce.",
+    "soldOut": false
+  },
+  {
+    "id": "chicken-bbq",
+    "storeId": "grill",
+    "name": "Chicken Barbecue Meal",
+    "price": 95,
+    "category": "Rice Meals",
+    "description": "Chicken barbecue served with rice.",
+    "soldOut": false
+  },
+  {
+    "id": "egg-sandwich",
+    "storeId": "sandwiches",
+    "name": "Egg Sandwich",
+    "price": 35,
+    "category": "Sandwiches",
+    "description": "Egg filling between two slices of bread.",
+    "soldOut": false
+  },
+  {
+    "id": "tuna-sandwich",
+    "storeId": "sandwiches",
+    "name": "Tuna Sandwich",
+    "price": 45,
+    "category": "Sandwiches",
+    "description": "Tuna filling between two slices of bread.",
+    "soldOut": false
+  },
+  {
+    "id": "ham-cheese",
+    "storeId": "sandwiches",
+    "name": "Ham and Cheese Sandwich",
+    "price": 50,
+    "category": "Sandwiches",
+    "description": "Ham and cheese between two slices of bread.",
+    "soldOut": false
+  },
+  {
+    "id": "burger",
+    "storeId": "sandwiches",
+    "name": "Classic Burger",
+    "price": 55,
+    "category": "Sandwiches",
+    "description": "A burger patty with lettuce and sauce in a bun.",
+    "soldOut": false
+  },
+  {
+    "id": "pandesal",
+    "storeId": "bakery",
+    "name": "Pandesal (3 pieces)",
+    "price": 15,
+    "category": "Bakery",
+    "description": "Three soft bread rolls.",
+    "soldOut": false
+  },
+  {
+    "id": "ensaymada",
+    "storeId": "bakery",
+    "name": "Ensaymada",
+    "price": 30,
+    "category": "Bakery",
+    "description": "One soft sweet bun with butter, sugar and cheese.",
+    "soldOut": false
+  },
+  {
+    "id": "banana-bread",
+    "storeId": "bakery",
+    "name": "Banana Bread",
+    "price": 30,
+    "category": "Bakery",
+    "description": "One slice of banana bread.",
+    "soldOut": false
+  },
+  {
+    "id": "mamon",
+    "storeId": "bakery",
+    "name": "Mamon",
+    "price": 25,
+    "category": "Bakery",
+    "description": "One soft sponge cake.",
+    "soldOut": false
+  }
+]

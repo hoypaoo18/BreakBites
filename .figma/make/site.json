@@ -1,0 +1,11 @@
+{
+  "title": "Lian Cafeteria | BSU Nasugbu",
+  "description": "Order affordable campus meals from Lian Cafeteria at Batangas State University - The National Engineering University, Nasugbu Campus.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
